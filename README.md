@@ -4,3 +4,5 @@
 Robô que autônomo usando a plataforma Arduino que consegue perceber e descolar desviando dos obstáculos  
 ## Autor
 João Claudio 
+## Simulador do Projeto 
+[thinkercad](https://www.tinkercad.com/things/834wrQLNnWD-projeto-robo-inteligente-nav)
